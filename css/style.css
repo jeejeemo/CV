@@ -485,6 +485,7 @@ h5 {
     overflow: hidden;
 }
 .content:last-child {
+
     width: 1720px;
     background-color: #000;
 }
@@ -506,10 +507,12 @@ h5 {
 }
 .inner {
     padding: 70px;
+
 }
 .inner p {
     position: relative;
     padding: 0;
+
 }
 #introduction .inner p:first-of-type {
     font-size: 24px;
@@ -610,7 +613,7 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-    background: url(../images/photo5.jpg) no-repeat 100% 0 scroll #000;
+    /*background: url(../images/photo5.jpg) no-repeat 100% 0 scroll #000;*/
     background-size: contain;
 }
 .about .inner {
